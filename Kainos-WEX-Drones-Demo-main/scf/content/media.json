@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Bedroom Speakers",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.5,
+        "text": "Media controls for the Bedroom Speakers,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "remote.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Control"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "power.png",
+        "color": "#d42f26",
+        "accentColor": "#ffffff",
+        "text": "Power"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Kitchen-TV",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.5,
+        "text": "Media controls for the kitchen TV,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "remote.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Control"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "power.png",
+        "color": "#d42f26",
+        "accentColor": "#ffffff",
+        "text": "Power"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  }
+]

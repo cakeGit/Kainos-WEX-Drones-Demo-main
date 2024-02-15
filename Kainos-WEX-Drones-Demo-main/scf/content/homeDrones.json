@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Cook-Bot",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "What do you want for breakfast?<br> Theres the ingredients for some pancakes!"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "pan-icon.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Cook"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "House-Bot",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "What household chores might you need done today?<br>Automate them with House-Bot!"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "hamburger.png",
+        "color": "#1cc00b",
+        "accentColor": "#144314",
+        "text": "Actions"
+      }
+    ],
+    "additional": "UNIT-H-02130B"
+  },
+  {
+    "title": "Doc-Bot",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Your blood sugar is high, do you want to take your insulin?"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "health.png",
+        "color": "#d42f26",
+        "accentColor": "#ffffff",
+        "text": "Checkup"
+      }
+    ],
+    "additional": "UNIT-D-02130T"
+  },
+  {
+    "title": "Security-Bot",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Currently patrolling, all clear."
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "configure.png",
+        "color": "#1a1a1a",
+        "accentColor": "#5f5f5f",
+        "text": "Configure"
+      }
+    ],
+    "additional": "UNIT-D-02130T"
+  }
+]

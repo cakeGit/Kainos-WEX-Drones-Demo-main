@@ -1,0 +1,51 @@
+{
+  "directory": "user>security>actions",
+  "content": [
+    {
+      "type": "navigationSidebar",
+      "width": "0.2",
+      "height": "0.8",
+      "top": "0.1",
+      "left": "0.1",
+      "tabs": {
+        "alerts": "Alerts",
+        "actions": "Actions",
+        "user": "Home"
+      }
+    },
+    {
+      "type": "title",
+      "title": "Security Actions",
+      "width": "0.55",
+      "height": "0.1",
+      "top": "0.05",
+      "left": "0.35"
+    },
+    {
+      "type": "largeDescriptionNavigationButton",
+      "to": "user",
+      "color": "#bf2a22",
+      "accentColor": "#1a1a1a",
+      "description": "Initiate a lockdown, lock doors, and turn off lights, all cameras begin recording",
+      "title": "Lockdown",
+      "icon": "lock.png",
+      "width": "0.25",
+      "height": "0.7",
+      "top": "0.2",
+      "left": "0.35"
+    },
+    {
+      "type": "largeDescriptionNavigationButton",
+      "to": "user",
+      "color": "#003eff",
+      "accentColor": "#141443",
+      "description": "Requests for an immediate deployal of a BIHADD Domestic Defense Buddy™",
+      "title": "Deploy Security",
+      "icon": "shield-icon.png",
+      "width": "0.25",
+      "height": "0.7",
+      "top": "0.2",
+      "left": "0.65"
+    }
+  ]
+}

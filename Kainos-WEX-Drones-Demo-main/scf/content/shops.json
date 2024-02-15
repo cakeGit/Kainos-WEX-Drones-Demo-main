@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Tescos",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Order from your nearby tescos,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "open.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Order"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Sainsburys",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Order from a Sainsburys for larger orders,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "open.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Order"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Costco",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "This one is further awawy, but drones will make the trip in no time!"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "open.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Order"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  }
+]

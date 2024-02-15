@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Garden Lights",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Controls for lights in the garden,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "bulb.png",
+        "color": "#ee790b",
+        "accentColor": "#433714",
+        "text": "Toggle"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Upper Lights",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.75,
+        "text": "Controls for the upper floor lighting group,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "bulb.png",
+        "color": "#ee790b",
+        "accentColor": "#433714",
+        "text": "Toggle"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Kitchen Strip Ligths",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.5,
+        "text": "Configurable controls for LED kitchen strip lights,"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "remote.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Control"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "bulb.png",
+        "color": "#ee790b",
+        "accentColor": "#433714",
+        "text": "Toggle"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  }
+]

@@ -1,0 +1,82 @@
+/*Gave up on positioning, everything is absolute*/
+
+* {
+  color: #e3e3e3;
+  font-family: monospace;
+  text-shadow: 2px 2px 0 #8c8c8c;
+}
+
+#content {
+  position: absolute;
+  width: 100vw;
+  height: 90vh;
+  top: 10vh;
+  left: 0;
+}
+
+
+#contentBg::after {
+  content: "";
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+  mask-image: url("../image/bg.png");
+  mask-size: 5vw;
+  background-color: #11141a;
+}
+
+#contentBg {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: #0a0c0f;
+}
+
+#header {
+  position: absolute;
+  width: 100vw;
+  height: 10vh;
+  top: 0vh;
+  left: 0;
+  background-color: transparent;
+}
+
+#backButton {
+  position: absolute;
+  width: 15vw;
+  height: 10vh;
+  top: 0;
+  left: 80vw;
+  --accent-color: #18191b;
+  --background-color: #232434;
+}
+
+#logo {
+  position: absolute;
+  height: 10vh;
+  width: auto;
+  top: 2px;
+  left: 5vw;
+}
+
+#directory {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+}
+
+#directory-separator {
+  color: grey;
+  font-size: 1rem;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+
+#directory-component {
+  font-size: 1.5rem;
+  vertical-align: middle;
+  padding-right: 5px;
+}

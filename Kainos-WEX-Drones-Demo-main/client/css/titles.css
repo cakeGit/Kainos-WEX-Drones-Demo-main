@@ -1,0 +1,10 @@
+.titleComponent {
+  background-color: transparent;
+  border: 0;
+}
+
+.titleComponent h1 {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 400;
+}

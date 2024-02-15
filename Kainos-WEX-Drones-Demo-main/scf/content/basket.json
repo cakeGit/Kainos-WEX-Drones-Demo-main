@@ -1,0 +1,59 @@
+[
+  {
+    "title": "'Beef' burger",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.8,
+        "text": "The trendiest new burger from NotMeat industries, 100% inorganic!"
+      },
+      {
+        "type": "button",
+        "width": 0.15,
+        "icon": "remove.png",
+        "color": "#d42f26",
+        "accentColor": "#1a1a1a",
+        "text": "Remove"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Coke-Cola x2",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.8,
+        "text": "1L drink bottle of your favourite fizzy flavours!"
+      },
+      {
+        "type": "button",
+        "width": 0.15,
+        "icon": "remove.png",
+        "color": "#d42f26",
+        "accentColor": "#1a1a1a",
+        "text": "Remove"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Chicken Burrito x5",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.8,
+        "text": "Tasty chicken burrito ingredients all in one,"
+      },
+      {
+        "type": "button",
+        "width": 0.15,
+        "icon": "remove.png",
+        "color": "#d42f26",
+        "accentColor": "#1a1a1a",
+        "text": "Remove"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  }
+]

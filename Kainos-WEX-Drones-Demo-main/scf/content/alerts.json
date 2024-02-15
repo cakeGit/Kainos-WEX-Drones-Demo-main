@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Unrecognised person",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.6,
+        "text": "Unrecognised person spotted at 5:22AM at back entrance!"
+      },
+      {
+        "type": "button",
+        "width": 0.15,
+        "icon": "alert.png",
+        "color": "#d42f26",
+        "accentColor": "#1a1a1a",
+        "text": "Urgent"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "shield-icon.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "BIHADD"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  },
+  {
+    "title": "Animal spotted",
+    "sections": [
+      {
+        "type": "description",
+        "width": 0.5,
+        "text": "Cat spotted in the garden at 2:45 AM,"
+      },
+      {
+        "type": "image",
+        "width": 0.25,
+        "image": "cat.png"
+      },
+      {
+        "type": "button",
+        "width": 0.25,
+        "icon": "remove.png",
+        "color": "#1c53ff",
+        "accentColor": "#141443",
+        "text": "Dismiss"
+      }
+    ],
+    "additional": "UNIT-C-02130C"
+  }
+]

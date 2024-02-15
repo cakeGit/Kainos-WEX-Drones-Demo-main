@@ -1,0 +1,52 @@
+{
+  "directory": "user",
+  "initialiser": "userInit.js",
+  "content": [
+    {
+      "type": "greeting",
+      "width": "0.8",
+      "height": "0.1",
+      "top": "0.05",
+      "left": "0.1"
+    },
+    {
+      "type": "largeDescriptionNavigationButton",
+      "to": "homecontrol",
+      "color": "#68BB56",
+      "accentColor": "#3c9928",
+      "description": "Working from home? Don’t have time to keep on top of everything? With the Intergrated Smart Home, you can know you’re on top without sacrificing time",
+      "title": "Smart Home",
+      "icon": "home-icon.png",
+      "width": "0.2",
+      "height": "0.7",
+      "top": "0.2",
+      "left": "0.15"
+    },
+    {
+      "type": "largeDescriptionNavigationButton",
+      "to": "shopping",
+      "color": "#D48E59",
+      "accentColor": "#bf6f32",
+      "description": "Need your groceries? With the Delivery Drone, you can get groceries right to your door, quick and easy!",
+      "title": "Deliveries",
+      "icon": "parcel-icon.png",
+      "width": "0.2",
+      "height": "0.7",
+      "top": "0.2",
+      "left": "0.4"
+    },
+    {
+      "type": "largeDescriptionNavigationButton",
+      "to": "alerts",
+      "color": "#414073",
+      "accentColor": "#34335c",
+      "description": "Going on holiday and worried about your valubles? Caught in the middle of a burglary? With the Bosh Intergrated Home Defence System™, you can be carefree with your house safe and secure!",
+      "title": "Security",
+      "icon": "shield-icon.png",
+      "width": "0.2",
+      "height": "0.7",
+      "top": "0.2",
+      "left": "0.65"
+    }
+  ]
+}
